@@ -2,7 +2,7 @@
 
 <p align="center">
   <a>
-    ![image](https://user-images.githubusercontent.com/50721063/229409583-e1ee0f30-054f-4f30-a45d-bb541574e512.png)
+
   </a>
   <h3 align="center">BABY AI MONITOR</h3>
   <!-- <p align="center">
